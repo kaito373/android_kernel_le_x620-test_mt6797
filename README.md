@@ -1,4 +1,4 @@
-# gemini-android-kernel-3.18
-Gemini Android Linux kernel v3.18
+# le_x620-android-kernel-3.18
+Le X620 test Android Linux kernel v3.18
 
-This is the Linux kernel v3.18 used by Android OS in Planet Computer's Gemini 
+Do not try compile till niw it is not working
